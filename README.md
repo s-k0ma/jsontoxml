@@ -1,8 +1,8 @@
 # JSON to XML RESTful service
 Web сервис функционал которого получает JSON объект типа:\n
-{
-  "b": "string"
-}
+{\n
+  "b": "string"\n
+}\n
 или массив объектов
 ]
   {
